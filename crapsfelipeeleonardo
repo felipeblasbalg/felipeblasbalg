@@ -150,6 +150,6 @@ if nome != "aaaaa":
         if ZY== "sim" and d == 0:                                   #caso acabe ou não tenha mais dinheiro
             print("Você nao tem mais dinheiro")
             print("Coloque mais e jogue novamente")
-if ZY== "nao":                                          #caso escreva que não quer jogar
-    print ("Até mais!")
+        if ZY== "nao":                                          #caso escreva que não quer jogar
+            print ("Até mais!")
                              
